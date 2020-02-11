@@ -1,0 +1,2 @@
+2020-02-11 22:10:47,330 [NonParallelWorker] INFO Integrivideo.Pages.LoginPage - Type login: integriuser2@mailinator.com
+2020-02-11 22:10:47,551 [NonParallelWorker] INFO Integrivideo.Pages.LoginPage - Type login: integripassword
