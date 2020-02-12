@@ -18,7 +18,7 @@ namespace Integrivideo.Tests
 
         public static void Main()
         {
-            Console.WriteLine("asdas");
+            Console.WriteLine("test test");
         }
         
         [SetUp]
